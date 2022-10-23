@@ -4,8 +4,9 @@
 [Link to my CV](https://drive.google.com/file/d/1qU_OBzhSa6zvDW8Q7zeRPLQNynSQ2XXQ/view?usp=sharing/)
 
 ## Courses
-- Software-tesing.ru Алексей Баранцев. Тестирвоание вэб-приложений
-- Portnov Computer School Михаил портонов Тестирование програмного обеспечения 
+- Software-tesing.ru Алексей Баранцев-Тестирвоание вэб-приложений
+- Portnov Computer School Михаил портонов-Тестирование програмного обеспечения 
+- Артем Русов-Тестирование веб-приложений
 
 
 ### Language and Tools
