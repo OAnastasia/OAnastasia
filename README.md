@@ -1,16 +1,30 @@
-### Hi there 👋
+# I'm a QA Engineer. 
 
-<!--
-**OAnastasia/oanastasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My CV
+[Link to my CV](https://drive.google.com/file/d/1qU_OBzhSa6zvDW8Q7zeRPLQNynSQ2XXQ/view?usp=sharing/)
 
-Here are some ideas to get you started:
+## Courses
+- Software-tesing.ru Алексей Баранцев. Тестирвоание вэб-приложений
+- Portnov Computer School Михаил портонов Тестирование програмного обеспечения 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Language and Tools
+![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
+![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
+![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=7d5fa6)
+![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
+
+
+### Testing Documentation
+
+
+
+### Follow Me
+
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/nastiiao)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anastasya-orlova-31791983/)
+![Anurag's GitHub stats](https://github.com/OAnastasia)
