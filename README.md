@@ -21,8 +21,9 @@
 
 
 ### Testing Documentation
-- [Bug-Reports](https://github.com/OAnastasia/Bug-reports)
-- [My portfolio](https://github.com/OAnastasia/My_portfolio-)
+-[My portfolio](https://github.com/OAnastasia/My_portfolio-)
+-[Bug-Reports](https://github.com/OAnastasia/Bug-reports)
+-[Postman Collections](https://github.com/OAnastasia/Postman)
 
 
 ### Follow Me
