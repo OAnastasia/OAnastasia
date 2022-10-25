@@ -1,7 +1,7 @@
 # I'm a QA Engineer. 
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1qU_OBzhSa6zvDW8Q7zeRPLQNynSQ2XXQ/view?usp=sharing/)
+[Link to my CV](https://drive.google.com/file/d/1ARQ8lA_UmrN-psapkoG4cVE95GViOOCS/view?usp=sharing/)
 
 ## Courses
 - Software-testing.ru Алексей Баранцев-Тестирвоание вэб-приложений
