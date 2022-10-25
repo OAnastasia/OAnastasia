@@ -9,7 +9,7 @@
 - QA Life Артем Русов-Тестирование веб-приложений
 
 
-### Language and Tools
+### Tools
 ![Header](https://img.shields.io/badge/Jira-556B2F?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-556B2F?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-556B2F?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -21,7 +21,8 @@
 
 
 ### Testing Documentation
-
+- [Bug-Reports](https://github.com/OAnastasia/Bug-reports)
+- [My portfolio](https://github.com/OAnastasia/My_portfolio-)
 
 
 ### Follow Me
